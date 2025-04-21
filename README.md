@@ -1,13 +1,8 @@
 ## Hey, thanks for coming 👋
 
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1dzd6cHkzdzM4eXY2M2ptOHkycGxrcG10YXh0ODlyb2FldG9oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUp12B2u14b6cqYpfJ/giphy.gif" width="160">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1dzd6cHkzdzM4eXY2M2ptOHkycGxrcG10YXh0ODlyb2FldG9oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUp12B2u14b6cqYpfJ/giphy.gif" width="130">
 
-<p><em>Freelance Software Engineer at <a href="https://www.upwork.com/freelancers/~01690812ee8d5a4e37?viewMode=1">Upwork</a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
-
-
-- 🔭 **Current Role**: Freelance Software Engineer at [Upwork](https://www.upwork.com/freelancers/~01690812ee8d5a4e37?viewMode=1)
+- 🔭 **Current Role**: Freelance Software Engineer at [Upwork](https://www.upwork.com/freelancers/~01690812ee8d5a4e37?viewMode=1) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌐 **Website**: [aldytamara.com](https://aldytamara.com/)
 - 💼 **LinkedIn**: [Aldy Tamara](https://www.linkedin.com/in/aldytamara/)
 
