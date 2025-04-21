@@ -1,6 +1,6 @@
 ## Hey, Thanks for coming 👋
 
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1dzd6cHkzdzM4eXY2M2ptOHkycGxrcG10YXh0ODlyb2FldG9oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUp12B2u14b6cqYpfJ/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1dzd6cHkzdzM4eXY2M2ptOHkycGxrcG10YXh0ODlyb2FldG9oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUp12B2u14b6cqYpfJ/giphy.gif" width="100">
 
 <p><em>Freelance Software Engineer at <a href="https://www.upwork.com/freelancers/~01690812ee8d5a4e37?viewMode=1">Upwork</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -44,9 +44,6 @@ Here's a breakdown of my key skills and technologies:
 *   VScode, Postman, Jmeter, Jira, ClickUp
 
 ### 💸 Support me:
-Help me to pay the domain subscription and buy me some snacks or tea.
-
-👉 🇮🇩 ### 💸 Support Me
 Help me to pay the domain subscription and buy me some snacks or tea.
 
 *   🇮🇩 [Trakteer](https://trakteer.id/aldy_tamara2/tip?quantity=1)
