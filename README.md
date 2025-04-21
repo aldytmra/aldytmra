@@ -22,7 +22,7 @@ Here's a breakdown of my key skills and technologies:
 ### ✨ Specializations
 *   🤖 ChatGPT & OpenAI API Expert
 *   🕷️ Scraper Bot Specialist (Puppeteer, Captcha Solving/Bypassing)
-*    automate Automation with n8n
+*   ⚙️ Automate Automation with n8n (Represents gears/automation)
 *   🧠 AI Integration
 
 ### ☁️ Backend Technologies
@@ -30,7 +30,7 @@ Here's a breakdown of my key skills and technologies:
 *   cloud Amazon Web Services (AWS), Azure Serverless
 
 ### 🚢 Deployment & CI/CD
-*   server Self-hosted, DigitalOcean, AWS, VPS, Shared Hosting
+*   Server Self-hosted, DigitalOcean, AWS, VPS, Shared Hosting
 *   ⚙️ Jenkins, Github Actions, CircleCI
 
 ### 💻 Languages
