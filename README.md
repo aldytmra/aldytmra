@@ -2,7 +2,13 @@
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU1dzd6cHkzdzM4eXY2M2ptOHkycGxrcG10YXh0ODlyb2FldG9oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUp12B2u14b6cqYpfJ/giphy.gif" width="230">
 
-I'm Aldy, a Software Engineer from Indonesia.
+<p><em>Freelance Software Engineer at <a href="https://www.upwork.com/freelancers/~01690812ee8d5a4e37?viewMode=1">Upwork</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+
+[![Linkedin: aldytamara](https://img.shields.io/badge/-aldytamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldytamara/)](https://www.linkedin.com/in/aldytamara/)
+[![GitHub Aldy](https://img.shields.io/github/followers/aldytmra?label=follow&style=social)](https://github.com/Aldytmra)
+
 
 ## About Me
 
@@ -36,4 +42,12 @@ Here's a breakdown of my key skills and technologies:
 
 ### 🛠️ Tools
 *   VScode, Postman, Jmeter, Jira, ClickUp
+
+### 💸 Support me:
+Help me to pay the domain subscription and buy me some snacks or tea.
+
+👉 🇮🇩 ### 💸 Support Me
+Help me to pay the domain subscription and buy me some snacks or tea.
+
+*   🇮🇩 [Trakteer](https://trakteer.id/aldy_tamara2/tip?quantity=1)
 
